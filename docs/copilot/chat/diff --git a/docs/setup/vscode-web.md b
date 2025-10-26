@@ -1,0 +1,16 @@
+ddiff --git a/docs/setup/vscode-web.md b/docs/setup/vscode-web.md
+--- docs/setup/vscode-web.md
++++ docs/setup/vscode-web.md
+@@ -152,9 +152,10 @@
+ ![Language status indicator](images/vscode-web/status-indicator.png)
+
+ ## Limitations
+
+-Since VS Code for the Web runs completely within the browser, some experiences will naturally be more constrained when compared to what you can do in the desktop app. For example, the terminal and debugger are not available, which makes sense since you can't compile, run, and debug a Rust or Go application within the browser sandbox.
++Since VS Code for the Web runs completely within the browser, some experiences will naturally
++be more constrained when compared to what you can do in the desktop app. For example, the terminal and debugger are not available, which makes sense since you can't compile, run, and debug a Rust or Go application within the browser sandbox.
+
+ ### Extensions
+
+ Only a subset of extensions can run in the browser. You can use the Extensions view to install extensions in the web, and extensions that cannot be installed will have a warning icon and **Learn Why** link. We expect more extensions to become enabled over time.
+\

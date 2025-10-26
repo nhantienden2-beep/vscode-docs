@@ -153,7 +153,8 @@ You can determine the level of language support in your current file through the
 
 ## Limitations
 
-Since VS Code for the Web runs completely within the browser, some experiences will naturally be more constrained when compared to what you can do in the desktop app. For example, the terminal and debugger are not available, which makes sense since you can't compile, run, and debug a Rust or Go application within the browser sandbox.
+Since VS Code for the Web runs completely within the browser, some experiences will naturally
+be more constrained when compared to what you can do in the desktop app. For ****example****, the terminal and debugger are not available, which makes sense since you can't compile, run, and debug a Rust or Go application within the browser sandbox.
 
 ### Extensions
 
